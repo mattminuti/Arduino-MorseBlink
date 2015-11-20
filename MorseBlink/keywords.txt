@@ -1,0 +1,4 @@
+MorseBlink KEYWORD1
+blinkString KEYWORD2
+blinkChar KEYWORD2
+
